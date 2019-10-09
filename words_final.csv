@@ -1,0 +1,121 @@
+Item,Topic,Position,Error term
+Жаргон,Stylistics,1,0
+Семья языков,General Theory,2,0
+Послелог,Morphology,3,0
+Изафет,Morphology,4,0
+Перифраза,Stylistics,5,0
+Паронимия,Semantics,6,Париномия
+Интерфикс,Morphemics,7,0
+Сингармонизм,Phonetics,8,0
+Лигатура,Writing,9,0
+Префикс,Morphemics,10,0
+Аналитизм,Morphology,11,0
+Аббревиатура,Phonetics,12,0
+Переразложение,Morphemics,13,0
+Аккомодация,Phonetics,14,0
+Транспозиция,Morphology,15,0
+Именные классы,Morphology,16,0
+Диссимиляция,Phonetics,17,0
+Клитика,Phonetics,18,0
+Канцеляризмы,Stylistics,19,0
+Подчинение,Syntax,20,0
+Омонимия,Semantics,21,0
+Референция,Semantics,22,0
+Просодия,Phonetics,23,Просония
+Предикат,Syntax,24,0
+Агенс,Syntax,25,0
+Наклонение,Morphology,26,0
+Морфема,Morphemics,27,0
+Дифтонг,Phonetics,28,0
+Пресуппозиция,Semantics,29,0
+Косвенная речь,Stylistics,30,0
+Дискурс,General Theory,31,0
+Экспрессивность,Stylistics,32,0
+Лексикография,Semantics,33,0
+Искусственные языки,General Theory,34,0
+Глагол,Morphology,35,0
+Коннотация,Semantics,36,0
+Билингвизм,General Theory,37,Безлингвизм
+Метатеза,Phonetics,38,0
+Опрощение,Morphemics,39,0
+Междометия,Morphology,40,0
+Инфинитив,Morphology,41,0
+Транскрипция,Phonetics,42,0
+Праязык,General Theory,43,0
+Артикль,Morphology,44,0
+Обстоятельство,Syntax,45,0
+Переходность,Morphology,46,0
+Таксис,Syntax,47,Таксасис
+Диалект,General Theory,48,0
+Крылатые слова,Stylistics,49,0
+Редупликация,Morphology,50,0
+Парадигма,Morphology,51,0
+Диакритические знаки,Writing,52,0
+Акцентология,Phonetics,53,0
+Падеж,Morphology,54,0
+Спряжение,Morphology,55,0
+Этимология,General Theory,56,0
+Пациенс,Syntax,57,0
+Сказуемое,Syntax,58,0
+Кириллица,Writing,59,0
+Сонорный согласный,Phonetics,60,0
+Семиотика,General Theory,61,0
+Орфография,Writing,62,0
+Антонимы,Semantics,63,0
+Семантика,Semantics,64,0
+Узус,General Theory,65,0
+Валентность,Syntax,66,0
+Деепричастие,Morphology,67,0
+Редукция,Phonetics,68,0
+Гипонимия,Semantics,69,0
+Орфоэпия,Phonetics,70,0
+Фузия,Morphology,71,0
+Инверсия,Syntax,72,0
+Клинопись,Writing,73,0
+Сленг,Stylistics,74,0
+Глаголица,Writing,75,Глагольница
+Словосочетание,Syntax,76,0
+Аккузатив,Morphology,77,0
+Метонимия,Semantics,78,0
+Графема,Writing,79,0
+Парцелляция,Syntax,80,0
+Иероглиф,Writing,81,0
+Метафора,Semantics,82,0
+Гаплология,Phonetics,83,0
+Имперфект,Morphology,84,Инпрефект
+Флексия,Morphemics,85,0
+Лексема,Semantics,86,0
+Транслитерация,Writing,87,0
+Назализация,Phonetics,88,0
+Эллипсис,Syntax,89,0
+Прилагательное,Morphology,90,0
+Палатализация,Phonetics,91,0
+Калька,General Theory,92,0
+Модальность,Semantics,93,0
+Аффикс,Morphemics,94,0
+Пуризм,Stylistics,95,0
+Ассимиляция,Phonetics,96,0
+Гравис,Writing,97,0
+Креольские языки,General Theory,98,0
+Титло,Writing,99,0
+Сандхи,Morphemics,100,0
+Субстантивация,Morphology,101,0
+Просторечие,Stylistics,102,0
+Денотат,Semantics,103,0
+Актант,Syntax,104,0
+Постфикс,Morphemics,105,Портфикс
+Циркумфикс,Morphemics,106,0
+Супплетивизм,Morphology,107,0
+Диахрония,General Theory,108,0
+Агглютинация,Morphology,109,0
+Полисемия,Semantics,110,0
+Контаминация,Stylistics,111,0
+Залог,Morphology,112,0
+Фразеологизм,Semantics,113,0
+Неполногласие,Phonetics,114,0
+Архаизмы,Semantics,115,0
+Морфонология,Morphemics,116,0
+Акут,Writing,117,0
+Вводные слова,Syntax,118,0
+Тавтология,Stylistics,119,Тавтонимея
+Аффриката,Phonetics,120,0

@@ -1,0 +1,361 @@
+Items,Area
+Антиципация,General Theory
+Афазия,General Theory
+Билингвизм,General Theory
+Внутренняя речь,General Theory
+Глосса,General Theory
+Глоттогенез,General Theory
+Говор,General Theory
+Двуязычие,General Theory
+Диалект,General Theory
+Диахрония,General Theory
+Дивергенция,General Theory
+Диглоссия,General Theory
+Дискурс,General Theory
+Идиолект,General Theory
+Идиом,General Theory
+Интерференция,General Theory
+Искусственные языки,General Theory
+Калька,General Theory
+Кинесика,General Theory
+Койне,General Theory
+Конвергенция,General Theory
+Контакты языковые,General Theory
+Креольские языки,General Theory
+Лингва франка,General Theory
+Макросемья,General Theory
+Мёртвые языки,General Theory
+Многоязычие,General Theory
+Пиджины,General Theory
+Праязык,General Theory
+Семиотика,General Theory
+Семья языков,General Theory
+Синхрония,General Theory
+Узус,General Theory
+Универсалии,General Theory
+Этимология,General Theory
+Алломорф,Morphemics
+Аффикс,Morphemics
+Внутренняя форма слова,Morphemics
+Деривация,Morphemics
+Интерфикс,Morphemics
+Инфикс,Morphemics
+Коаффикс,Morphemics
+Конверсия (в словообразовании),Morphemics
+Конфикс,Morphemics
+Корень,Morphemics
+Морфема,Morphemics
+Морфонология,Morphemics
+Наращение,Morphemics
+Окончание,Morphemics
+Определитель корня,Morphemics
+Опрощение,Morphemics
+Основа,Morphemics
+Переразложение,Morphemics
+Постфикс,Morphemics
+Префикс,Morphemics
+Приращение,Morphemics
+Приставка,Morphemics
+Сандхи,Morphemics
+Словообразование,Morphemics
+Словосложение,Morphemics
+Сложное слово,Morphemics
+Сложносокращённое слово,Morphemics
+Суффикс,Morphemics
+Трансфикс,Morphemics
+Флексия,Morphemics
+Форматив,Morphemics
+Циркумфикс,Morphemics
+Агглютинация,Morphology
+Адвербиализация,Morphology
+Адъективация,Morphology
+Аккузатив,Morphology
+Аморфные языки,Morphology
+Аналитизм,Morphology
+Аорист,Morphology
+Артикль,Morphology
+Аспектология,Morphology
+Аугмент,Morphology
+Безличность,Morphology
+Вербализация,Morphology
+Герундий,Morphology
+Глагол,Morphology
+Грамматика,Morphology
+Граммема,Morphology
+Деепричастие,Morphology
+Залог,Morphology
+Изафет,Morphology
+Изолирующие языки,Morphology
+Именные классы,Morphology
+Имперфект,Morphology
+Инклюзив,Morphology
+Инкорпорация,Morphology
+Инфинитив,Morphology
+Классификаторы,Morphology
+Междометия,Morphology
+Местоимение,Morphology
+Морфология,Morphology
+Наклонение,Morphology
+Наречие,Morphology
+Номинативный строй,Morphology
+Одушевлённость,Morphology
+Падеж,Morphology
+Парадигма,Morphology
+Переходность,Morphology
+Перфект,Morphology
+Перформатив,Morphology
+Полисинтетизм,Morphology
+Посессивность,Morphology
+Послелог,Morphology
+Преверб,Morphology
+Предлог,Morphology
+Претерит,Morphology
+Прилагательное,Morphology
+Притяжательность,Morphology
+Причастие,Morphology
+Прономинализация,Morphology
+Редупликация,Morphology
+Род,Morphology
+Связка,Morphology
+Синтетизм,Morphology
+Склонение,Morphology
+Словоизменение,Morphology
+Словоформа,Morphology
+Служебные слова,Morphology
+Собирательности категория,Morphology
+Собственное имя,Morphology
+Союз,Morphology
+Спряжение,Morphology
+Степени сравнения,Morphology
+Субстантивация,Morphology
+Супин,Morphology
+Супплетивизм,Morphology
+Существительное,Morphology
+Счётные слова,Morphology
+Тематическая гласная,Morphology
+Транспозиция,Morphology
+Флективные языки,Morphology
+Формообразование,Morphology
+Фузия,Morphology
+Числительное,Morphology
+Эргативность,Morphology
+Аббревиатура,Phonetics
+Аблаут,Phonetics
+Аккомодация,Phonetics
+Акцентология,Phonetics
+Аллитерация,Phonetics
+Артикуляция,Phonetics
+Ассимиляция,Phonetics
+Аффриката,Phonetics
+Веляризация,Phonetics
+Вокализм,Phonetics
+Гаплология,Phonetics
+Глайд,Phonetics
+Гласные,Phonetics
+Диссимиляция,Phonetics
+Дифтонг,Phonetics
+Интонация,Phonetics
+Клитика,Phonetics
+Консонантизм,Phonetics
+Лабиализация,Phonetics
+Ларингал,Phonetics
+Метатеза,Phonetics
+Метатония,Phonetics
+Моносиллабизм,Phonetics
+Монофтонг,Phonetics
+Мора,Phonetics
+Назализация,Phonetics
+Нейтрализация,Phonetics
+Неполногласие,Phonetics
+Орфоэпия,Phonetics
+Палатализация,Phonetics
+Полногласие,Phonetics
+Полугласный,Phonetics
+Просодия,Phonetics
+Протеза,Phonetics
+Расподобление,Phonetics
+Редукция,Phonetics
+Сингармонизм,Phonetics
+Слог,Phonetics
+Согласные,Phonetics
+Сонорный согласный,Phonetics
+Тон (фонетика),Phonetics
+Транскрипция,Phonetics
+Трифтонг,Phonetics
+Ударение,Phonetics
+Умлаут,Phonetics
+Уподобление,Phonetics
+Фарингализация,Phonetics
+Фонация,Phonetics
+Фонема,Phonetics
+Фонетика,Phonetics
+Фонология,Phonetics
+Фразовое ударение,Phonetics
+Чередование,Phonetics
+Шва,Phonetics
+Элизия,Phonetics
+Эмфаза,Phonetics
+Эпентеза,Phonetics
+Анафорическое отношение,Semantics
+Антонимы,Semantics
+Антропонимика,Semantics
+Архаизмы,Semantics
+Варваризм,Semantics
+Вульгаризмы,Semantics
+Гипонимия,Semantics
+Дейксис,Semantics
+Денотат,Semantics
+Десигнат,Semantics
+Диатеза,Semantics
+Заимствование,Semantics
+Звукоподражание,Semantics
+Значение слова,Semantics
+Интернационализмы,Semantics
+Историзмы,Semantics
+Коннотация,Semantics
+Лексема,Semantics
+Лексика,Semantics
+Лексикография,Semantics
+Лексикология,Semantics
+Метафора,Semantics
+Метонимия,Semantics
+Многозначность,Semantics
+Модальность,Semantics
+Неологизмы,Semantics
+Номинация,Semantics
+Омографы,Semantics
+Омонимия,Semantics
+Омофоны,Semantics
+Омоформы,Semantics
+Ономасиология,Semantics
+Ономастика,Semantics
+Паронимия,Semantics
+Парономазия,Semantics
+Полисемия,Semantics
+Прагматика,Semantics
+Пресуппозиция,Semantics
+Пропозиция,Semantics
+Профессионализмы,Semantics
+Референция,Semantics
+Сема,Semantics
+Семантика,Semantics
+Сигнификат,Semantics
+Синонимия,Semantics
+Славянизмы,Semantics
+Словарь,Semantics
+Тезаурус,Semantics
+Топоним,Semantics
+Устаревшие слова,Semantics
+Фразеологизм,Semantics
+Эвфемизмы,Semantics
+Арго,Stylistics
+Диалогическая речь,Stylistics
+Жаргон,Stylistics
+Звукосимволизм,Stylistics
+Идеофоны,Stylistics
+Канцеляризмы,Stylistics
+Клише,Stylistics
+Контаминация,Stylistics
+Косвенная речь,Stylistics
+Крылатые слова,Stylistics
+Литературный язык,Stylistics
+Многосоюзие,Stylistics
+Монологическая речь,Stylistics
+Перифраза,Stylistics
+Плеоназм,Stylistics
+Поговорка,Stylistics
+Полилог,Stylistics
+Полисиндетон,Stylistics
+Пословица,Stylistics
+Просторечие,Stylistics
+Прямая речь,Stylistics
+Пуризм,Stylistics
+Риторика,Stylistics
+Сленг,Stylistics
+Стилизация,Stylistics
+Стиль,Stylistics
+Тавтология,Stylistics
+Текст,Stylistics
+Тропы,Stylistics
+Фраза,Stylistics
+Эзопов язык,Stylistics
+Экспрессивность,Stylistics
+Агенс,Syntax
+Актант,Syntax
+Актуальное членение предложения,Syntax
+Асиндетон,Syntax
+Бессоюзие,Syntax
+Валентность,Syntax
+Вводные слова,Syntax
+Гипотаксис,Syntax
+Детерминант,Syntax
+Дополнение,Syntax
+Инверсия,Syntax
+Обособление,Syntax
+Обращение,Syntax
+Обстоятельство,Syntax
+Определение,Syntax
+Паратаксис,Syntax
+Парцелляция,Syntax
+Пациенс,Syntax
+Подлежащее,Syntax
+Подчинение,Syntax
+Предикат,Syntax
+Предложение,Syntax
+Приложение,Syntax
+Примыкание,Syntax
+Простое предложение,Syntax
+Рема,Syntax
+Сверхфразовое единство,Syntax
+Синтагма,Syntax
+Синтаксис,Syntax
+Сказуемое,Syntax
+Словосочетание,Syntax
+Сложноподчинённое предложение,Syntax
+Сложносочинённое предложение,Syntax
+Согласование,Syntax
+Сочетаемость,Syntax
+Сочинение,Syntax
+Субъект,Syntax
+Таксис,Syntax
+Управление,Syntax
+Фигуры речи,Syntax
+Члены предложения,Syntax
+Эллипсис,Syntax
+Акут,Writing
+Алфавит,Writing
+Вязь,Writing
+Гетерограмма,Writing
+Гетерография,Writing
+Глаголица,Writing
+Гравис,Writing
+Гражданский шрифт,Writing
+Графема,Writing
+Графика,Writing
+Детерминатив,Writing
+Дешифровка,Writing
+Диакритические знаки,Writing
+Диграф,Writing
+Знаки препинания,Writing
+Идеограмма,Writing
+Иероглиф,Writing
+Капитальное письмо,Writing
+Квазиалфавитное письмо,Writing
+Кириллица,Writing
+Клинопись,Writing
+Консонантное письмо,Writing
+Лигатура,Writing
+Линейное письмо,Writing
+Логограмма,Writing
+Орфография,Writing
+Перегласовка,Writing
+Пиктография,Writing
+Полуустав,Writing
+Протописьменности,Writing
+Пунктуация,Writing
+Силлабическое письмо,Writing
+Титло,Writing
+Транслитерация,Writing
+Унциальное письмо,Writing
+Устав,Writing
+Циркумфлекс,Writing
